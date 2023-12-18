@@ -31,7 +31,7 @@ This repository documents my exploration into Supervised Machine Learning and th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ML-Exploration-Day4.git
+   git clone https://github.com/SwabhimanNanda/ML-Exploration-Day4.git
    ```
 
 2. Explore the Jupyter Notebook to understand the code and concepts.
